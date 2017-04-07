@@ -1,0 +1,17 @@
+body {
+	font-family: 'Monospace', Lucida Console;
+}
+#Header {
+	background-color: PaleGreen ;
+}
+#nav {
+	background-color: LavenderBlush;
+}
+#CoolStuff {
+	background-color: powderblue;
+	padding: 10px;
+}
+#Expirence {
+	background-color: Thistle;
+	
+}
