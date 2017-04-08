@@ -1,5 +1,7 @@
 body {
-	font-family: 'Monospace', Lucida Console;
+	font-family: Alegreya, serif-sans;
+	font-weight: 600;
+	
 }
 
 #Header {
@@ -11,13 +13,22 @@ body {
 	-webkit-background-size: cover;
 	-o-background-size: cover;
 	background-position: center;
-	padding: 200px;
-	
+	padding: 150px;
+	word-spacing: 0.5em;
+	letter-spacing: 0.05em;
+	font-family: Lora, serif-sans;
+	font-weight: bold;
+	font-size: 22px;
 }
-#nav {
+#Nav {
 	text-align: right;
+	text-size: 40px;
 }
-
+#Intro {
+	text-align: center;
+	word-spacing: 0.25em;
+	letter-spacing: 0.03em;
+}
 p {
 	color: Black;
 	font-family: Georgia
