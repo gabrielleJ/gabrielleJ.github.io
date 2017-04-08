@@ -14,7 +14,10 @@ body {
 	padding: 200px;
 	
 }
-	
+#nav {
+	text-align: right;
+}
+
 p {
 	color: Black;
 	font-family: Georgia
