@@ -2,22 +2,35 @@ body {
 	font-family: 'Monospace', Lucida Console;
 }
 #Header {
+	color: Black;
 	text-align: center;
+	background-image: url("green_image.JPG");
+	position: relative;
+	min-height: auto;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	padding: 300px;
+	
 }
+	
 #nav {
+	background-color: rgb(0, 100, 100);
+	color: AntiqueWhite;
 	text-align: center;
 }
 #CoolStuff {
-	/*background-color: powderblue;*/
+	background-color: rgb(0, 100, 100);
+	color: AntiqueWhite;
 	padding: 10px;
 }
 #Expirence {
-	/*background-color: Thistle;*/
+	background-color: rgb(0, 100, 100);
+	color: AntiqueWhite;
 	
 }
 * {
-	background-color: rgb(0, 100, 100);
-	color: AntiqueWhite;
+
 
 }
 p {
