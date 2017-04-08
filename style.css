@@ -5,7 +5,7 @@ body {
 #Header {
 	color: Black;
 	text-align: center;
-	background-image: url("green_image.jpg");
+	background-image: url("./green_image.jpg");
 	position: relative;
 	min-height: auto;
 	-webkit-background-size: cover;
