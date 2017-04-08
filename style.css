@@ -23,11 +23,17 @@ body {
 #Nav {
 	text-align: right;
 	text-size: 40px;
+	word-spacing: 0.3em;
 }
 #Intro {
 	text-align: center;
 	word-spacing: 0.25em;
 	letter-spacing: 0.03em;
+}
+
+#Top {
+	color: Black;
+	text-align: center;
 }
 p {
 	color: Black;
@@ -42,5 +48,4 @@ p {
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
-
 
